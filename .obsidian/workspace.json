@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/General Skills-01/Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Bases"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Plantilla.md",
+                "file": "PicoCTF/General Skills-01/Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "Lets Warm Up"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,10 +197,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "725efd2466b52bef",
+  "active": "6d78f6632201b7dc",
   "lastOpenFiles": [
+    "PicoCTF/General Skills-01/Lets Warm Up.md",
+    "PicoCTF/General Skills-01/Bases.md",
+    "PicoCTF/General Skills-01/Obedient cat.md",
+    "Sin título.md",
+    "PicoCTF/General Skills-01/2Warm.md",
     "README.md",
     "PicoCTF/Plantilla.md",
+    "PicoCTF/General Skills-01",
     "PicoCTF",
     "Bienvenido.md"
   ]
