@@ -21,6 +21,8 @@ Input: 0x70
 Recipe: From Hex
 
 Outpout: p
+
+picoCTF{p}
 ```
 
 ## Referencias:
