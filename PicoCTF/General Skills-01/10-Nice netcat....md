@@ -60,3 +60,4 @@ Outpout: picoCTF{g00d_k1tty!_n1c3_k1tty!_3d84edc8}
 
 picoCTF{g00d_k1tty!_n1c3_k1tty!_3d84edc8}
 ```
+con Python:

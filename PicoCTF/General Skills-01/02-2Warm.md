@@ -15,3 +15,14 @@ Outpout: 101010
 picoCTF{101010}
 ```
 
+## Solución 2 
+Con python
+```
+YagooRT-picoctf@webshell:~$ python
+Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> bin(42)[2:]
+'101010'
+
+picoCTF{101010}
+```
