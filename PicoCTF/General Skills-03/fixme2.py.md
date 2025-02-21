@@ -7,6 +7,7 @@ Hints:
 4. The `str_xor` function does not need to be reverse engineered for this challenge.
 
 ## Solución 1:
+Arreglando el script corrigiendo un "=" en "= ="
 ```
 YagooRT-picoctf@webshell:~$ wget https://artifacts.picoctf.net/c/5/fixme2.py
 --2025-02-13 19:29:48--  https://artifacts.picoctf.net/c/5/fixme2.py
