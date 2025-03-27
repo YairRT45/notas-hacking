@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web Exploitation-01/Client-side-again.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "README"
             }
           }
         ],
@@ -185,18 +185,24 @@
   },
   "active": "b3fe219111845398",
   "lastOpenFiles": [
-    "PicoCTF/Web Exploitation-01/Pico Browser.md",
+    "PicoCTF/Extra challenges/Inspect HTML.md",
+    "PicoCTF/Extra challenges/HashingJobApp.md",
+    "PicoCTF/Extra challenges/Cookie Monster Secret Recipe.md",
+    "PicoCTF/Web Exploitation-02/Scavenger Hunt.md",
+    "PicoCTF/Web Exploitation-02/Cookies.md",
+    "PicoCTF/Web Exploitation-02/GET aHEAD.md",
     "PicoCTF/Web Exploitation-01/Client-side-again.md",
+    "PicoCTF/Web Exploitation-02",
+    "PicoCTF/Web Exploitation-01/Where are the robots.md",
+    "PicoCTF/Web Exploitation-01/Pico Browser.md",
+    "PicoCTF/Web Exploitation-01/logon.md",
+    "PicoCTF/Web Exploitation-01/Insp3ctor.md",
     "Pasted image 20250319233923.png",
     "PicoCTF/Web Exploitation-01/dont-use-client-side.md",
-    "PicoCTF/Web Exploitation-01/logon.md",
-    "PicoCTF/Web Exploitation-01/Where are the robots.md",
-    "PicoCTF/Web Exploitation-01/Insp3ctor.md",
     "PicoCTF/Tarea 1/Special.md",
     "PicoCTF/Tarea 1/Binary Search.md",
     "PicoCTF/Tarea 1/ASCII Numbers.md",
     "PicoCTF/Web Exploitation-01",
-    "PicoCTF/Sin nombre",
     "PicoCTF/Tarea 1/Collaborative Development.md",
     "PicoCTF/Tarea 1/Blame Game.md",
     "PicoCTF/Tarea 1/Commitment Issues.md",
@@ -208,12 +214,6 @@
     "PicoCTF/General Skills-01/01-Lets Warm Up.md",
     "PicoCTF/General Skills-03/runme.py.md",
     "PicoCTF/Tarea 1/Time Machine.md",
-    "PicoCTF/Tarea 1/Permissions.md",
-    "PicoCTF/Tarea 1/Binhexa.md",
-    "PicoCTF/General Skills-02/Big Zip.md",
-    "PicoCTF/General Skills-02/Wave a flag.md",
-    "PicoCTF/General Skills-02/Useless.md",
-    "PicoCTF/General Skills-02/strings it.md",
     "PicoCTF/Tarea 1",
     "PicoCTF/General Skills-03",
     "PicoCTF/Extra challenges",
