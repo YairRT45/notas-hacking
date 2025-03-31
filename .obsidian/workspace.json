@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ad4c2ffb340f5db7",
+        "id": "570d949ea9c7bb32",
         "type": "tabs",
         "children": [
           {
-            "id": "fb70cf3efa80cca7",
+            "id": "39af1b20b00cf172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1/Special.md",
+                "file": "PicoCTF/Web Exploitation-04/SOAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special"
-            }
-          },
-          {
-            "id": "b3fe219111845398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/Web Exploitation-03/JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JaWT Scratchpad"
+              "title": "SOAP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,44 +168,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b3fe219111845398",
+  "active": "39af1b20b00cf172",
   "lastOpenFiles": [
-    "PicoCTF/Web Exploitation-03/More SQLi.md",
-    "PicoCTF/Web Exploitation-03/JaWT Scratchpad.md",
+    "PicoCTF/Web Exploitation-04/Trickster.md",
+    "PicoCTF/Web Exploitation-02/Scavenger Hunt.md",
     "PicoCTF/Web Exploitation-03/Irish-Name-Repo 1.md",
+    "Pasted image 20250319233923.png",
+    "PicoCTF/Web Exploitation-01/Pico Browser.md",
+    "PicoCTF/Web Exploitation-04/SOAP.md",
+    "PicoCTF/Web Exploitation-04/Most Cookies.md",
+    "PicoCTF/Web Exploitation-04/MatchTheRegex.md",
+    "PicoCTF/Web Exploitation-03/JaWT Scratchpad.md",
+    "PicoCTF/Web Exploitation-04/Sin nombre",
+    "PicoCTF/Tarea 2-Web/IntroToBurp.md",
+    "PicoCTF/Web Exploitation-04",
+    "PicoCTF/Tarea 2-Web/Includes.md",
+    "PicoCTF/Tarea 2-Web",
+    "PicoCTF/Extra challenges/Sin título.md",
+    "PicoCTF/Web Exploitation-03/More SQLi.md",
     "README.md",
     "PicoCTF/Web Exploitation-03",
     "PicoCTF/Web Exploitation-02/Sin nombre",
-    "PicoCTF/Extra challenges/Inspect HTML.md",
+    "PicoCTF/Tarea 2-Web/Inspect HTML.md",
     "PicoCTF/Extra challenges/HashingJobApp.md",
     "PicoCTF/Extra challenges/Cookie Monster Secret Recipe.md",
-    "PicoCTF/Web Exploitation-02/Scavenger Hunt.md",
     "PicoCTF/Web Exploitation-02/Cookies.md",
     "PicoCTF/Web Exploitation-02/GET aHEAD.md",
     "PicoCTF/Web Exploitation-01/Client-side-again.md",
     "PicoCTF/Web Exploitation-02",
     "PicoCTF/Web Exploitation-01/Where are the robots.md",
-    "PicoCTF/Web Exploitation-01/Pico Browser.md",
     "PicoCTF/Web Exploitation-01/logon.md",
     "PicoCTF/Web Exploitation-01/Insp3ctor.md",
-    "Pasted image 20250319233923.png",
     "PicoCTF/Web Exploitation-01/dont-use-client-side.md",
-    "PicoCTF/Tarea 1/Special.md",
-    "PicoCTF/Tarea 1/Binary Search.md",
-    "PicoCTF/Tarea 1/ASCII Numbers.md",
+    "PicoCTF/Tarea 1-GSkills/Special.md",
+    "PicoCTF/Tarea 1-GSkills/Binary Search.md",
     "PicoCTF/Web Exploitation-01",
-    "PicoCTF/Tarea 1/Collaborative Development.md",
-    "PicoCTF/Tarea 1/Blame Game.md",
-    "PicoCTF/Tarea 1/Commitment Issues.md",
-    "PicoCTF/Tarea 1/Chrono.md",
-    "PicoCTF/General Skills-03/Serpentine.md",
-    "PicoCTF/General Skills-03/fixme2.py.md",
-    "PicoCTF/General Skills-03/fixme1.py.md",
-    "PicoCTF/Tarea 1",
+    "PicoCTF/Tarea 1-GSkills",
     "PicoCTF/General Skills-03",
-    "PicoCTF/Extra challenges",
-    "Sin nombre",
-    "PicoCTF/General Skills-02",
-    "PicoCTF/General Skills-01"
+    "PicoCTF/Extra challenges"
   ]
 }
