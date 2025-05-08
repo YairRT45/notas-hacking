@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Examen1/Parte2-Web/WebSockFish.md",
+                "file": "PicoCTF/Forensic-03/MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WebSockFish"
+              "title": "MacroHard WeakEdge"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cd4ace8c277ca28c",
@@ -170,8 +170,14 @@
   },
   "active": "061c8dadc4b32908",
   "lastOpenFiles": [
-    "PicoCTF/Examen1/Parte2-Web/SSTI 2.md",
+    "PicoCTF/Forensic-03/tunn3l v1s10n.md",
+    "PicoCTF/Forensic-03/MacroHard WeakEdge.md",
+    "PicoCTF/Forensic-03/Matryoshka doll.md",
+    "PicoCTF/Forensic-03/WebNet1.md",
+    "PicoCTF/Forensic-03/WebNet0.md",
     "PicoCTF/Examen1/Parte2-Web/WebSockFish.md",
+    "PicoCTF/Forensic-03",
+    "PicoCTF/Examen1/Parte2-Web/SSTI 2.md",
     "PicoCTF/Examen1/Parte2-Web/SSTI 1.md",
     "PicoCTF/Examen1/Parte2-Web/SQL Direct.md",
     "PicoCTF/Examen1/Parte1-GS/SansAlpha.md",
@@ -196,16 +202,10 @@
     "PicoCTF/Examen1",
     "PicoCTF/Sin título.md",
     "exit",
-    "PicoCTF/Forensic-02/c0rrupt.md",
-    "PicoCTF/Forensic-02/WhitePages.md",
-    "PicoCTF/Forensic-02/m00nwalk.md",
-    "PicoCTF/Web Exploitation-03/JaWT Scratchpad.md",
     "PicoCTF/Forensic-02",
-    "README.md",
     "PicoCTF/Forensic-01",
     "Pasted image 20250319233923.png",
     "PicoCTF/Web Exploitation-04/Sin nombre",
-    "PicoCTF/Web Exploitation-04",
-    "PicoCTF/Tarea 2-Web"
+    "PicoCTF/Web Exploitation-04"
   ]
 }
