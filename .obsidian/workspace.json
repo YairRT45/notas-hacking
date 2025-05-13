@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 3-Forensic/Scan Surprise.md",
+                "file": "PicoCTF/Tarea 3-Forensic/flags are stepic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scan Surprise"
+              "title": "flags are stepic"
             }
           }
         ]
@@ -170,11 +170,16 @@
   },
   "active": "061c8dadc4b32908",
   "lastOpenFiles": [
+    "PicoCTF/Tarea 3-Forensic/Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/Tarea 3-Forensic/flags are stepic.md",
+    "PicoCTF/Tarea 3-Forensic/RED.md",
+    "PicoCTF/Tarea 3-Forensic/Secret of the Polyglot.md",
     "PicoCTF/Tarea 3-Forensic/hideme.md",
+    "PicoCTF/Tarea 3-Forensic/information.md",
+    "PicoCTF/Tarea 3-Forensic/CanYouSee.md",
     "PicoCTF/Tarea 3-Forensic/Scan Surprise.md",
     "PicoCTF/Tarea 3-Forensic/Redaction gone wrong.md",
     "PicoCTF/Tarea 3-Forensic/St3go.md",
-    "PicoCTF/Tarea 3-Forensic/information.md",
     "PicoCTF/Forensic-04/Operation Oni.md",
     "PicoCTF/Tarea 3-Forensic",
     "PicoCTF/Forensic-04/Operation Orchid.md",
@@ -194,11 +199,6 @@
     "PicoCTF/Examen1/Parte2-Web/SSTI 2.md",
     "PicoCTF/Examen1/Parte2-Web/SSTI 1.md",
     "PicoCTF/Examen1/Parte2-Web/SQL Direct.md",
-    "PicoCTF/Examen1/Parte1-GS/SansAlpha.md",
-    "PicoCTF/Examen1/Parte2-Web/Java Code Analysis!!.md",
-    "PicoCTF/Examen1/Parte2-Web/findme.md",
-    "PicoCTF/Examen1/Parte2-Web/n0s4n1ty 1.md",
-    "PicoCTF/Examen1/Parte2-Web/head-dump.md",
     "PicoCTF/Examen1/Parte1-GS.zip",
     "PicoCTF/Examen1/Parte2-Web",
     "PicoCTF/Examen1/Parte1-GS",
